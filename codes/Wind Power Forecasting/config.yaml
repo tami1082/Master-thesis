@@ -19,12 +19,9 @@ epoch: 30
 batch_size: 32 
 output_path: "./output/"
 log_per_steps: 100
-#lr: 0.001
 clip_norm: 5
 weight_decay: 0
 learner: "adam"
-#lr_decay: False
-#lr_scheduler_type: None
 lr_eta_min: 0.00001
 lr_decay_ratio: 0.1
 lr_warmup_epoch: 5
