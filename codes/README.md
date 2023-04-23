@@ -2,7 +2,7 @@
 
 ## Traffic Flow Prediction
 
-1. Datasets can be abtained from the resposity "[Traffic-Public-Datasets](https://github.com/tami1082/Traffic-Public-Datasets)"
+1. Datasets can be abtained from the repository "[Traffic-Public-Datasets](https://github.com/tami1082/Traffic-Public-Datasets)"
 
 2. 
     ``` python
