@@ -1,5 +1,5 @@
 # Master-thesis
-This is my master thesis, including two different topics. The original version is written by Chinese，I would provide the English abstract and some of detail of My thesis。
+This is my master thesis, including two different topics. The original version is written by Chinese，I would provide the English abstract and some of detail of My thesis.
 
 ## Deep Spatial-Temporal Consistent Representation Learning for Time Series Prediction
 
